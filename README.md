@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vishalgaswar
-- 👀 I’m interested in full-stack-development
+- 👀 I’m interested in full-stack-development and Java Development
 - 🌱 I’m currently learning Javascript
 - 
 
